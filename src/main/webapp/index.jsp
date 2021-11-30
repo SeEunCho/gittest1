@@ -16,30 +16,10 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
-<<<<<<< HEAD
-          <LI>user1 실습 1</LI>
-          <LI>user1 실습 2</LI>
-          <LI>user1 실습 3</LI>
-          <LI>user1 conflict 실습</LI> 
-          <LI>user2 conflict 실습</LI> 
-=======
-<<<<<<< HEAD
           <LI>user1 실습 1</LI>
           <LI>user1 실습 2</LI>
           <LI>user1 실습 3</LI>
           <LI>user1 conflict 실습</LI>    ◀- 추가, 다른 팀원: <LI>user2 conflict 실습</LI>
-=======
-          <LI>user1 실습 1</LI> 
-          <LI>user1 실습 2</LI> 
-          <LI>user1 실습 1</LI>
-          <LI>user1 실습 2</LI>
-          <LI>user1 실습 3</LI>
-          <LI>user2 실습2.</LI>
-          <LI>user2 실습3.</LI>
-          <li>main Branch 충돌 실습!</li>
-          <LI>충돌 실습 B!!</LI>
->>>>>>> 9e807860d1986cbd65cc9eba3f3dab32727e6b8f
->>>>>>> fuyfu01
       </OL>
   </DIV> 
 </body>
