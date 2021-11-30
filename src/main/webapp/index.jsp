@@ -21,6 +21,7 @@
           <LI>user1 실습 3</LI>
           <LI>user2 실습2.</LI>
           <LI>user2 실습3.</LI>
+          <li>main Branch 출돌 실습!</li>
       </OL>
   </DIV> 
 </body>
