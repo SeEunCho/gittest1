@@ -19,6 +19,8 @@
           <LI>user1 실습 1</LI>
           <LI>user1 실습 2</LI>
           <LI>user1 실습 3</LI>
+          <LI>user2 실습2.</LI>
+          <LI>user2 실습3.</LI>
       </OL>
   </DIV> 
 </body>
