@@ -16,8 +16,16 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
+<<<<<<< HEAD
           <LI>user1 실습 1</LI> 
           <LI>user1 실습 2</LI> ◀- 추가
+=======
+          <LI>user1 실습 1</LI>
+          <LI>user1 실습 2</LI>
+          <LI>user1 실습 3</LI>
+          <LI>user2 실습2.</LI>
+          <LI>user2 실습3.</LI>
+>>>>>>> 0e24fc5c842d1fbfc3b3cc647d06e6d8586e35c8
       </OL>
   </DIV> 
 </body>
