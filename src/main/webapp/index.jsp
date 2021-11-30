@@ -21,6 +21,7 @@
           <LI>user1 실습 3</LI>
           <LI>user2 실습2.</LI>
           <LI>user2 실습3.</LI>
+          <LI>충돌 실습 B!!</LI>
       </OL>
   </DIV> 
 </body>
