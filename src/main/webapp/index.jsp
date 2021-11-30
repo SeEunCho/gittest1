@@ -16,6 +16,7 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
+          <LI>Conflict 충돌 해결.</LI>
       </OL>
   </DIV> 
 </body>
