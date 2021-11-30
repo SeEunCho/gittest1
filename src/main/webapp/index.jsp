@@ -16,8 +16,10 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 커밋 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
-          <LI>user1 실습 1</LI> 
-          <LI>user1 실습 2</LI> ◀- 추가
+          <LI>user1 실습 1</LI>
+          <LI>user1 실습 2</LI>
+          <LI>user1 실습 3</LI>
+          <LI>user1 conflict 실습</LI>    ◀- 추가, 다른 팀원: <LI>user2 conflict 실습</LI>
       </OL>
   </DIV> 
 </body>
