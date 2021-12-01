@@ -21,6 +21,7 @@
           <LI>user1 실습 3</LI>
           <LI>user1 conflict 실습</LI>    ◀- 추가, 다른 팀원: <LI>user2 conflict 실습</LI>
           <li>WP 충돌 실습</li>
+          <li>DS/AI 충돌 실습</li>
       </OL>
   </DIV> 
 </body>
